@@ -3,11 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto"
     package="com.srv.raphael">
-    <!--Remove "< ! - - " from line 8 and 12 -->
-        <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
-
     <uses-permission android:name="com.android.vending.BILLING" />
-    <!--If you are not using license checker, you need to remove CHECK_LICENSE permission -->
 
     <supports-screens
         android:smallScreens="true"
