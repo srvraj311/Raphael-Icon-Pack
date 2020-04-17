@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date"> 15 April, 2020</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline
+    * <a href="linkUrl">Link Text</a> for links -->
+    <string-array name="changelog">
+
+        <item> 1. Added <b>Wallpapers</b> for the Pack   </item>
+        <item> 2. 100s of new icons added. 1000s more to come.</item>
+        <item> 3. Now Colour choices for system icons are available. </item>
+        <item> 4. Some colour Bugs fixed in UI("OK" button was mixed with Ui) </item>
+
+
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,84 @@
+// Remove '/*' and '*/' to Enable OneSignal
+
+buildscript {
+    repositories {
+        maven { url 'https://plugins.gradle.org/m2/' }
+    }
+    dependencies {
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.6'
+    }
+}
+apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+        sign {
+            storeFile file('C:\\Users\\Rooki\\Documents\\android keys\\myKey01.jks')
+            storePassword 'srvraj@7870'
+            keyAlias = 'release'
+            keyPassword 'sourabh147b@'
+        }
+    }
+    compileSdkVersion rootProject.ext.CompileSdk
+    buildToolsVersion rootProject.ext.BuildTools
+
+    android.applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            def appName = parent.name
+            def fileName = appName.replace(" ", "_")
+            outputFileName = "Raphael-v${variant.versionCode}.apk"
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.srv.raphael"
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
+        versionCode 1710
+        versionName "1.710"
+        multiDexEnabled true
+
+        // Remove '/*' and '*/' below to enable OneSignal
+
+        manifestPlaceholders = [
+           onesignal_app_id: "56eb3c4d-2066-46c6-b3d9-1354e144a2fb",
+           onesignal_google_project_number: "REMOTE"
+        ]
+        signingConfig signingConfigs.sign
+
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    /*
+     * Raphael Material Dashboard Library
+     *
+     * How to update?
+     * 1. See latest version at GitHub, https://github.com/zixpo/candybar/releases
+     * 2. Change candybar dependency matching latest version
+     * 3. com.github.zixpo.candybar:$versionNumber
+     * 4. Sync Project with Gradle Files
+     * 5. Clean project
+     * 6. Done
+     */
+
+    implementation 'com.github.zixpo:candybar:3.6.2'
+    implementation 'com.onesignal:OneSignal:3.13.0'
+    implementation 'com.android.billingclient:billing:2.2.0'
+}

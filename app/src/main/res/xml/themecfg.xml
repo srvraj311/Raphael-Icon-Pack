@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>1</version>
+
+    <pkgName>com.srv.raphael</pkgName>
+    <themeName>Raphael icon pack</themeName>
+    <themeInfo>   Raphael is a android icon pack which contains fresh handmade icons which are following a combination of cartoony and material looks.All colours used are following material guidelines of google..</themeInfo>
+    <preview
+        img1="preview1"
+        img2="preview2" />
+
+</theme>

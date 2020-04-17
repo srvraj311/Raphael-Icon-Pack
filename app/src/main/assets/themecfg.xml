@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>1</version>
+
+    <pkgName>com.srv.raphael</pkgName>
+    <themeName>Raphael Icon Pack</themeName>
+    <themeInfo> Raphael is a android icon pack specially desighned for amoled screens. The icons and wallpapers provided here are best suited in AMOLED displays.</themeInfo>
+    <preview img1="preview1" img2="preview2" />
+
+</theme>

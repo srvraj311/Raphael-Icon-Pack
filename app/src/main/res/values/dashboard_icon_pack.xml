@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Raphael Icon Pack</string>
+
+    <string name="theme_title">Raphael</string>
+    <string name="theme_name">Raphael it</string>
+
+    <string name="theme_author">Sourabh</string>
+    <string name="developer_name">srvraj311</string>
+    <string name="developerName">srvraj311</string>
+    <string name="authorName">Sourabh</string>
+
+    <string name="authorLink">http://www.instagram.com/_____sourabh_______</string>
+    <string name="developer_link">http://www.github.com/srvraj311</string>
+
+    <string name="theme_description">Raphael is a android icon pack which contains fresh handmade icons which are following a combination of cartoony and material looks.All colours used are following material guidelines of google.</string>
+    <string name="theme_info">Enjoy Customization</string>
+    <string name="theme_ad_msg">Raphael is a android icon pack which contains fresh handmade icons which are following a combination of cartoony and material looks.All colours used are following material guidelines of google.</string>
+
+    <string name="theme_feature">Raphael is a android icon pack which contains fresh handmade icons which are following a combination of cartoony and material looks.All colours used are following material guidelines of google.</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.srv.raphael</string>
+
+</resources>
