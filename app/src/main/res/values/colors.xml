@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#880E4F</color>
-    <color name="colorPrimaryDark">#560027</color>
-    <color name="colorAccent">#000000</color>
+    <color name="colorPrimary">#E84A5F</color>
+    <color name="colorPrimaryDark">#b00136</color>
+    <color name="colorAccent">#E84A5F</color>
 
-    <color name="darkColorPrimary">#000000</color>
-    <color name="darkColorPrimaryDark">@color/darkColorPrimary</color>
+    <color name="darkColorPrimary">#E84A5F</color>
+    <color name="darkColorPrimaryDark">#b00136</color>
     <color name="darkColorAccent">#F8BBD0</color>
 
     <!-- Shortcut Icon -->
@@ -23,7 +23,7 @@
 
     <!-- Navigation View -->
     <color name="navigationViewHeaderBackground">#FFFFFF</color>
-    <color name="navigationViewHeaderBackgroundDark">#880E4F</color>
+    <color name="navigationViewHeaderBackgroundDark">#E84A5F</color>
     <color name="navigationViewTitle">#FFFFFF</color>
     <color name="navigationViewTitleBack">#33000000</color>
     <color name="navigationViewText">#000000</color>
@@ -44,7 +44,7 @@
     <!-- Tab -->
     <color name="tabIndicator">#FFF</color>
     <color name="tabIndicatorDark">@color/colorAccent</color>
-    <color name="tabText">#32FFFFFF</color>
+    <color name="tabText">#000000</color>
     <color name="tabTextDark">@color/tabText</color>
     <color name="tabTextSelected">#FFF</color>
     <color name="tabTextSelectedDark">@color/colorAccent</color>
@@ -62,9 +62,9 @@
     <color name="rippleAccentDark">@color/rippleAccent</color>
 
     <!-- Attributes -->
-    <color name="mainBackground">#e35183</color>
+    <color name="mainBackground">#ffffff</color>
     <color name="mainBackgroundDark">#000000</color>
-    <color name="primaryText">#000000</color>
+    <color name="primaryText">#ffffff</color>
     <color name="primaryTextDark">#FFFFFF</color>
     <color name="secondaryText">#484848</color>
     <color name="secondaryTextDark">#ABABAB</color>
