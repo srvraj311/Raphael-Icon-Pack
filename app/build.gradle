@@ -37,8 +37,8 @@ android {
         applicationId "com.srv.raphael"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 1710
-        versionName "1.710"
+        versionCode 1720
+        versionName "1.720"
         multiDexEnabled true
 
         // Remove '/*' and '*/' below to enable OneSignal

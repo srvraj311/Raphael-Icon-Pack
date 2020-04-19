@@ -11,10 +11,9 @@
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
 
-        <item> 1. Added <b>Wallpapers</b> for the Pack   </item>
-        <item> 2. 100s of new icons added. 1000s more to come.</item>
-        <item> 3. Now Colour choices for system icons are available. </item>
-        <item> 4. Some colour Bugs fixed in UI("OK" button was mixed with Ui) </item>
+        <item> 1. Added a Beautiful Clock Widget    </item>
+        <item> 2. Few icons changed and some added.</item>
+        <item> 3. Colours Of the UI updated. </item>
 
 
 

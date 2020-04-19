@@ -64,7 +64,7 @@
     <!-- Attributes -->
     <color name="mainBackground">#ffffff</color>
     <color name="mainBackgroundDark">#000000</color>
-    <color name="primaryText">#ffffff</color>
+    <color name="primaryText">#000000</color>
     <color name="primaryTextDark">#FFFFFF</color>
     <color name="secondaryText">#484848</color>
     <color name="secondaryTextDark">#ABABAB</color>

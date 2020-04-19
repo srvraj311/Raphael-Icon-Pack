@@ -3309,5 +3309,291 @@
     <item class="com.bandsintown/com.bandsintown.activity.SplashScreen" name="bandsintown" />
     <item class="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup" />
     <item class="de.dm.meindm.android/de.dm.meindm.android.NavigationActivity" name="dm" />
+    <appmap>
+
+        <!-- 8 Ball Pool -->
+        <item class="com.miniclip.eightballpool.EightBallPoolActivity" name="a8_ball_pool"/>
+
+        <!-- Authenticator -->
+        <item class="com.azure.authenticator.ui.LaunchActivity" name="authenticator"/>
+
+        <!-- Bewakoof -->
+        <item class="com.bewakoof.bewakoof.MainActivity" name="bewakoof"/>
+
+        <!-- Club Factory -->
+        <item class="club.fromfactory.ui.splash.SplashActivity" name="club_factory"/>
+
+        <!-- GetApps -->
+        <item class="com.xiaomi.mipicks.DefaultAlias" name="getapps"/>
+
+        <!-- Goibibo -->
+        <item class="com.goibibo.common.SplashActivity" name="goibibo"/>
+
+        <!-- Google Indic Keyboard -->
+        <item class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" name="google_indic_keyboard"/>
+
+        <!-- Hotstar -->
+        <item class="in.startv.hotstar.rocky.launch.splash.SplashActivity" name="hotstar"/>
+
+        <!-- JioSaavn -->
+        <item class="com.jio.media.mobile.apps.jiobeats.splash.SplashScreen" name="jiosaavn"/>
+
+        <!-- Ludo King -->
+        <item class="com.google.firebase.MessagingUnityPlayerActivity" name="ludo_king"/>
+
+        <!-- Mi Community -->
+        <item class="com.mi.global.bbs.ui.SplashActivity" name="mi_community"/>
+
+        <!-- Mi Credit -->
+        <item class="com.micredit.in.MainActivity" name="mi_credit"/>
+
+        <!-- Mi Pay -->
+        <item class="com.mipay.home.ui.SplashActivity" name="mi_pay"/>
+
+        <!-- Mi Store -->
+        <item class="com.mi.global.shop.activity.MainTabActivity" name="mi_store"/>
+
+        <!-- Myntra -->
+        <item class="com.myntra.android.SplashActivity" name="myntra"/>
+
+        <!-- Over -->
+        <item class="com.overllc.over.application.OverActivity" name="over"/>
+
+        <!-- Raphael Icon Pack -->
+        <item class="com.srv.raphael.activities.SplashActivity" name="raphael_icon_pack"/>
+
+        <!-- Scanner -->
+        <item class="com.xiaomi.scanner.app.ScanActivity" name="scanner"/>
+
+        <!-- Screen Recorder -->
+        <item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="screen_recorder"/>
+
+        <!-- Security -->
+        <item class="com.miui.securityscan.MainActivity" name="security"/>
+
+        <!-- Services & feedback -->
+        <item class="com.miui.miservice.main.MainActivity" name="services_feedback"/>
+
+        <!-- ShareMe -->
+        <item class="com.xiaomi.midrop.SplashScreen" name="shareme"/>
+
+        <!-- Snapdeal -->
+        <item class="com.snapdeal.ui.material.activity.MaterialMainActivityDefault" name="snapdeal"/>
+
+        <!-- Tiny Planet Maker -->
+        <item class="org.hofapps.tinyplanet.MainActivity" name="tiny_planet_maker"/>
+
+        <!-- UC Browser -->
+        <item class="com.UCMobile.main.UCMobile" name="uc_browser"/>
+
+        <!-- Where is my Train -->
+        <item class="com.whereismytrain.view.activities.MainPagerActivity" name="where_is_my_train"/>
+
+        <!-- Zomato -->
+        <item class="com.application.zomato.activities.Splash" name="zomato"/>
+        <!-- 70mai -->
+        <item class="com.banyac.midrive.app.ui.activity.login.SplashActivity" name="70mai"/>
+
+        <!-- Activity Bubbles -->
+        <item class="com.digitalwellbeingexperiments.activitybubbles.manager.ManagerSplashActivity" name="activity_bubbles"/>
+
+        <!-- Affairs Cloud -->
+        <item class="com.mavenit.android.AffairsCloud.MainActivity" name="affairs_cloud"/>
+
+        <!-- Age Calculator -->
+        <item class="com.geekmindapps.agecalc.activity.MainActivity" name="age_calculator"/>
+
+        <!-- Air Horn -->
+        <item class="com.ivandigital.airhorn.MainActivity" name="air_horn"/>
+
+        <!-- Airtel -->
+        <item class="com.myairtelapp.activity.SplashScreenActivity" name="airtel"/>
+
+        <!-- Alliance Connect -->
+        <item class="com.allianceconnect.helpdesk.MainActivity" name="alliance_connect"/>
+
+        <!-- AMOLED Wallpapers -->
+        <item class="com.softwarelint.darkops.view.activities.ActivitySplash" name="amoled_wallpapers"/>
+
+        <!-- Bajaj Care -->
+        <item class="com.excellonsoft.bajajconnect.SplashActivity" name="bajaj_care"/>
+
+        <!-- BOMBitUP -->
+        <item class="bombitup.romreviwer.com.bombitup.splash" name="bombitup"/>
+
+        <!-- Camera Connect -->
+        <item class="jp.co.canon.ic.cameraconnect.top.CCTopActivity" name="camera_connect"/>
+
+        <!-- Canva -->
+        <item class="com.canva.app.editor.splash.SplashActivity" name="canva"/>
+
+        <!-- CarDekho -->
+        <item class="com.girnarsoft.cardekho.splash.ui.activity.SplashActivity" name="cardekho"/>
+
+        <!-- Current Affairs -->
+        <item class="com.gktoday.app.SplashActivity" name="current_affairs"/>
+
+        <!-- Customer -->
+        <item class="com.iffcotokio.CustomerApp.MainActivity" name="customer"/>
+
+        <!-- DigiLocker -->
+        <item class="com.digilocker.android.ui.activity.dashboard.activity.MainDashboardActivity" name="digilocker"/>
+
+        <!-- Domino's -->
+        <item class="com.Dominos.activity.SplashActivity" name="domino's"/>
+
+        <!-- Earth -->
+        <item class="com.google.android.apps.earth.EarthActivity" name="earth"/>
+
+        <!-- EMI Calculator -->
+        <item class="com.finance.loan.emicalculator.Splash_Screen" name="emi_calculator"/>
+
+        <!-- Flightradar24 -->
+        <item class="com.flightradar24free.SplashActivity" name="flightradar24"/>
+
+        <!-- Freecharge -->
+        <item class="com.freecharge.activities.splash.SplashActivity" name="freecharge"/>
+
+        <!-- HappyEasyGo -->
+        <item class="com.lvbanx.happyeasygo.welcome.WelcomeActivity" name="happyeasygo"/>
+
+        <!-- Hill Climb Racing -->
+        <item class="com.fingersoft.game.MainActivity" name="hill_climb_racing"/>
+
+        <!-- HP ePrint -->
+        <item class="com.hp.android.print.welcome.WelcomeActivity" name="hp_eprint"/>
+
+        <!-- HP Print Service Plugin -->
+        <item class="com.hp.android.printservice.launcher.SplashActivity" name="hp_print_service_plugin"/>
+
+        <!-- HP Smart -->
+        <item class="com.hp.printercontrol.base.PrinterControlActivity" name="hp_smart"/>
+
+        <!-- huk kwgt -->
+        <item class="org.kustom.api.dashboard.DashboardActivity" name="huk_kwgt"/>
+
+        <!-- Hyperlapse -->
+        <item class="hyperlapsemobile.android.startpage" name="hyperlapse"/>
+
+        <!-- IGNOU Student App -->
+        <item class="com.ignou.studentApp.IGNOUStudentApp" name="ignou_student_app"/>
+
+        <!-- inCollage -->
+        <item class="com.camerasideas.collagemaker.activity.DummyActivity" name="incollage"/>
+
+        <!-- ixigo trains -->
+        <item class="com.ixigo.train.ixitrain.SplashScreenActivity" name="ixigo_trains"/>
+
+        <!-- KFC India -->
+        <item class="crc64ded25ac84fd66723.MainActivity" name="kfc_india"/>
+
+        <!-- KineMaster -->
+        <item class="com.nextreaming.nexeditorui.MainActivity" name="kinemaster"/>
+
+        <!-- Komparify -->
+        <item class="com.threegsimplified.planhound.CheckCallLogActivity" name="komparify"/>
+
+        <!-- LazyPay -->
+        <item class="com.citrus.citruspay.splash.SplashActivity" name="lazypay"/>
+
+        <!-- Ludo Talent -->
+        <item class="sg.bigo.game.ui.launch.LaunchActivity" name="ludo_talent"/>
+
+        <!-- mAadhaar -->
+        <item class="in.gov.uidai.mAadhaarPlus.MainActivity" name="maadhaar"/>
+
+        <!-- MakeMyTrip -->
+        <item class="com.mmt.travel.app.home.ui.SplashActivity" name="makemytrip"/>
+
+        <!-- MarutiCare -->
+        <item class="com.sodel.maruticare.MainActivity" name="maruticare"/>
+
+        <!-- MediaSaver -->
+        <item class="com.StorySaver.Postsaver.mediasaver.Rajan.SplashActivity" name="mediasaver"/>
+
+        <!-- MP3 Cutter and Ringtone Maker -->
+        <item class="com.atomic.apps.ringtone.cutter.SplashActivity" name="mp3_cutter_and_ringtone_maker"/>
+
+        <!-- mParivahan -->
+        <item class="com.nic.mparivahan.activity.SplashActivity" name="mparivahan"/>
+
+        <!-- My DishTV -->
+        <item class="in.dishtv.activity.SplashActivity" name="my_dishtv"/>
+
+        <!-- NEOLINE -->
+        <item class="com.maxelus.libpref.MaxelusLuncherActivity" name="neoline"/>
+
+        <!-- Netmeds -->
+        <item class="com.netmedsmarketplace.netmeds.AppUriSchemeHandler" name="netmeds"/>
+
+        <!-- NTES -->
+        <item class="cris.icms.ntes.LaunchApp" name="ntes"/>
+
+        <!-- OLX India -->
+        <item class="com.olxgroup.panamera.presentation.splash.SplashActivity" name="olx_india"/>
+
+        <!-- OYO -->
+        <item class="com.oyo.consumer.activity.LauncherActivity" name="oyo"/>
+
+        <!-- PharmEasy -->
+        <item class="com.pharmeasy.ui.activities.SplashActivity" name="pharmeasy"/>
+
+        <!-- PhotoScan -->
+        <item class="com.google.android.apps.photos.scanner.home.HomeActivity" name="photoscan"/>
+
+        <!-- Quora -->
+        <item class="com.quora.android.components.activities.LauncherActivity" name="quora"/>
+
+        <!-- RailCal -->
+        <item class="org.indiarailinfo.railcal.ui.MainActivity" name="railcal"/>
+
+        <!-- redBus -->
+        <item class="in.redbus.android.root.SplashScreen" name="redbus"/>
+
+        <!-- Retrica -->
+        <item class="retrica.scenes.MainActivity" name="retrica"/>
+
+        <!-- RGB Fusion -->
+        <item class="com.gigabyte.rgbfusion.rgbmain" name="rgb_fusion"/>
+
+        <!-- SBI Rewardz -->
+        <item class="com.rewardz.common.activity.SplashScreenActivity" name="sbi_rewardz"/>
+
+        <!-- Stickers Happy Birthday -->
+        <item class="com.WAStickerapps.stickers.EntryActivity" name="stickers_happy_birthday"/>
+
+        <!-- Super Sound -->
+        <item class="com.tianxingjian.supersound.MainActivity" name="super_sound"/>
+
+        <!-- Tambola -->
+        <item class="org.cocos2dx.cpp.AppActivity" name="tambola"/>
+
+        <!-- Testbook -->
+        <item class="com.testbook.tbapp.android.RouterActivity" name="testbook"/>
+
+        <!-- Ulysse Speedometer -->
+        <item class="com.binarytoys.speedometer.UlysseSpeedometer" name="ulysse_speedometer"/>
+
+        <!-- UTS -->
+        <item class="com.cris.ima.utsonmobile.mainmenuitems.SplashActivity" name="uts"/>
+
+        <!-- Vale -->
+        <item class="apps.vk.vale.activity.startup.ActivitySplash" name="vale"/>
+
+        <!-- Vault -->
+        <item class="com.netqin.ps.privacy.HideActivity" name="vault"/>
+
+        <!-- Video MP3 Converter -->
+        <item class="com.fundevs.app.mediaconverter.SplashActivity" name="video_mp3_converter"/>
+
+        <!-- VidMate -->
+        <item class="com.nemo.vidmate.WelcomeActivity" name="vidmate"/>
+
+        <!-- WAStickerApps Collection -->
+        <item class="com.jham.stickercollection.ModeSelector" name="wastickerapps_collection"/>
+
+        <!-- Yatra -->
+        <item class="com.yatra.base.activity.SplashScreenActivity" name="yatra"/>
+    </appmap>
 
 </appmap>
